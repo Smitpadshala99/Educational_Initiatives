@@ -128,7 +128,6 @@ java MarsRoverSimulator
 ```
 
 ## Project Structure:
-* **`classes/`**: Contains all the Java classes that define various design patterns and the Mars Rover exercise.
 * **`Behavioral/`**: Contains use cases for behavioral design patterns like Strategy and Observer.
 * **`Creational/`**: Contains use cases for creational design patterns like Singleton and Builder.
 * **`Structural/`**: Contains use cases for structural design patterns like Decorator and Facade.
