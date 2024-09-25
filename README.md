@@ -133,6 +133,8 @@ java MarsRoverSimulator
 * **`Structural/`**: Contains use cases for structural design patterns like Decorator and Facade.
 * **`MarsRover/`**: Contains the Mars Rover simulation code implementing the Command and Composite patterns.
 
+## Repository Link:
+Find the complete codebase on [GitHub](https://github.com/Smitpadshala99/Educational_Initiatives.git)
 
 ## Conclusion:
 This repository provides a practical demonstration of common design patterns in Java. It also showcases how to implement a real-world problem (Mars Rover simulation) using Object-Oriented principles and design patterns. Each pattern example comes with a use case, making it easier to understand its implementation and use.
